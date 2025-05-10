@@ -144,35 +144,32 @@ Berikut adalah beberapa visualisasi yang dihasilkan dari pelatihan agen:
 
 #### Grid World Agen
 
-Gambar berikut menunjukkan posisi agen, rintangan, dan tujuan di dalam grid:
+Gambar berikut menunjukkan posisi agen (putih), rintangan (hitam), dan tujuan (kuning) di dalam grid:
 
-![Grid Visualization](assets/grid_world.png)
+![Grid Visualization](assets/output.png)
 
 #### Grafik Kemajuan Pelatihan
 
 Grafik di bawah ini menunjukkan path yang ditempuh agen selama pelatihan:
 
-![Training Progress]
-(assets/output.png)
-(assets/output2.png)
-(assets/output3.png)
-(assets/output4.png)
-(assets/output5.png)
-(assets/output6.png)
-(assets/output7.png)
-(assets/output8.png)
-(assets/output9.png)
-(assets/output10.png)
-(assets/output11.png)
-(assets/output12.png)
-(assets/output13.png)
-(assets/output14.png)
-(assets/output15.png)
+![Training Progress](assets/output.png)
+![Training Progress](assets/output2.png)
+![Training Progress](assets/output3.png)
+![Training Progress](assets/output4.png)
+![Training Progress](assets/output5.png)
+![Training Progress](assets/output6.png)
+![Training Progress](assets/output7.png)
+![Training Progress](assets/output8.png)
+![Training Progress](assets/output9.png)
+![Training Progress](assets/output10.png)
+![Training Progress](assets/output11.png)
+![Training Progress](assets/output12.png)
+![Training Progress](assets/output13.png)
+![Training Progress](assets/output14.png)
+![Training Progress](assets/output15.png)
 
 ---
 
 ### Hasil Proyek
 
-Setelah agen dilatih menggunakan Q-learning, agen akan dapat menemukan jalur terbaik untuk mencapai tujuan sambil menghindari rintangan. Visualisasi ini menunjukkan jalur yang dipilih oleh agen untuk mencapai tujuan dari posisi awal `(0, 0)`.
-
----
+Setelah agen dilatih menggunakan Q-learning, agen akan dapat menemukan jalur terbaik untuk mencapai tujuan sambil menghindari rintangan. Visualisasi di atas menunjukkan jalur yang dipilih oleh agen untuk mencapai tujuan `(7, 7)` dari posisi awal `(0, 0)`.
