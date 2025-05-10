@@ -1,6 +1,4 @@
 
-# Reinforcement Learning : Q-Learning Grid World
-
 ### Deskripsi Proyek
 
 Proyek ini mendemonstrasikan penggunaan **Q-learning**, sebuah algoritma reinforcement learning, untuk melatih agen dalam dunia grid untuk mencapai tujuan tertentu sambil menghindari rintangan. Dalam simulasi ini, agen belajar melalui trial-and-error, mengupdate kebijakan (policy) berdasarkan feedback yang diterima dari setiap tindakan yang diambil.
